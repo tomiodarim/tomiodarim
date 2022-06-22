@@ -14,10 +14,10 @@
         <img src="linkedin.svg" width="55" height="40" alt="linkedin logo"  />
     </a>
     <a href="https://tryhackme.com/p/lukewicz" target="_blank">
-        <img src="thm.svg" width="55" height="40" alt="hackerrank logo"  />
+        <img src="thm.svg" width="55" height="40" alt="tryhackme logo"  />
     </a>
     <a href="https://www.beecrowd.com.br/judge/pt/profile/442619" target="_blank">
-        <img src="bee2.svg" width="55" height="40" alt="hackerrank logo"  />
+        <img src="bee2.svg" width="55" height="40" alt="beecrowd logo"  />
     </a>
     <a href="https://www.hackerrank.com/tomiodarim" target="_blank">
         <img src="hr.svg" width="55" height="40" alt="hackerrank logo"  />
