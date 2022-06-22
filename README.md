@@ -11,20 +11,20 @@
 <br>
 <div>
     <a href="https://linkedin.com/in/lucastomiodarim" target="_blank">
-        <img src="linkedin.svg" width="55" height="40" alt="linkedin logo"  />
+        <img src="images/linkedin.svg" width="55" height="40" alt="linkedin logo"  />
     </a>
     <a href="https://tryhackme.com/p/lukewicz" target="_blank">
-        <img src="thm.svg" width="55" height="40" alt="tryhackme logo"  />
+        <img src="images/thm.svg" width="55" height="40" alt="tryhackme logo"  />
     </a>
     <a href="https://www.beecrowd.com.br/judge/pt/profile/442619" target="_blank">
-        <img src="bee2.svg" width="55" height="40" alt="beecrowd logo"  />
+        <img src="images/bee2.svg" width="55" height="40" alt="beecrowd logo"  />
     </a>
     <a href="https://www.hackerrank.com/tomiodarim" target="_blank">
-        <img src="hr.svg" width="55" height="40" alt="hackerrank logo"  />
+        <img src="images/hr.svg" width="55" height="40" alt="hackerrank logo"  />
     </a>
-    <img align="right"src="bash.svg" height="40" width="55" alt="bash logo"  />
-    <img align="right" src="cpp.svg" height="40" width="55" alt="cplusplus logo"  />
-    <img align="right" src="c.svg" height="40" width="55" alt="c logo"  />
+    <img align="right"src="images/bash.svg" height="40" width="55" alt="bash logo"  />
+    <img align="right" src="images/cpp.svg" height="40" width="55" alt="cplusplus logo"  />
+    <img align="right" src="images/c.svg" height="40" width="55" alt="c logo"  />
 </div>
 
 <br>
