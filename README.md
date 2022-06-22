@@ -22,9 +22,9 @@
     <a href="https://www.hackerrank.com/tomiodarim" target="_blank">
         <img src="images/hr.svg" width="55" height="40" alt="hackerrank logo"  />
     </a>
-    <img align="right"src="images/bash.svg" height="40" width="55" alt="bash logo"  />
-    <img align="right" src="images/cpp.svg" height="40" width="55" alt="cplusplus logo"  />
-    <img align="right" src="images/c.svg" height="40" width="55" alt="c logo"  />
+    <img align="right" src="images/bash.svg" height="40" width="55" alt="bash logo"  unselectable="on"/>
+    <img align="right" src="images/cpp.svg" height="40" width="55" alt="cplusplus logo"  unselectable="on"/>
+    <img align="right" src="images/c.svg" height="40" width="55" alt="c logo"  unselectable="on"/>
 </div>
 
 <br>
