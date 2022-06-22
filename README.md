@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I'm Lucas!</h2>
+<h1 align="left">Hello, I'm Lucas!</h2>
 
 
 <p align="left">I am a Certified Ethical Hacker (CEH) and computer science student.</p>
